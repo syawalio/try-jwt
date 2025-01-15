@@ -1,0 +1,5 @@
+class Config:
+    SECRET_KEY = "b39178ed8a78516e1545bc2d7f2333867bd6bb2e4f80dc0c05a1a769c0929ba3"
+    CLIENT_ID = "7f26ff1d430fcfac642c50d70a2f2e7a"
+    ENCRYPTION_KEY = "b39178ed8a78516e1545bc2d7f2333867bd6bb2e4f80dc0c05a1a769c0929ba3"
+    IV = "tkHPeuYzGki3jt2Um7Duiw=="
